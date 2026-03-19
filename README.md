@@ -39,12 +39,12 @@ qa-bolt-teste/
 │   │   ├── institucional.cy.js  
 │   │   ├── atendimento.cy.js  
 │   │   └── navegacao.cy.js  
-|
+
 ├── docs/  
 │   ├── casos_de_teste_gherkin.md  
 │   ├── bug_report.md  
 │   └── teste_exploratorio_completo.md  
-|
+
 ├── evidencias/  
 │   ├── bugs/  
 │   └── testes/  
@@ -93,21 +93,21 @@ Alguns testes foram mantidos com falha propositalmente, pois representam bugs re
 ## 🚀 Como executar o projeto
 
 ### 1. Clonar o repositório
-
-git clone <seu-repositorio>
-
+```bash
+git clone https://github.com/Andrei-Zidane/qa-bolt-teste/tree/main
+```
 ### 2. Instalar dependências
-
+```bash
 npm install
-
+```
 ### 3. Executar Cypress
-
+```bash
 Modo interativo:
-npx cypress open
+npx cypress 
 
 Modo headless:
 npx cypress run
-
+```
 ---
 
 ## 📸 Evidências
@@ -133,10 +133,10 @@ evidencias/
 
 A aplicação apresenta boa estrutura visual, porém possui falhas críticas em navegação, redirecionamento e consistência de funcionalidades.  
 
-Os testes realizados evidenciam pontos de melhoria importantes para garantir uma melhor experiência ao usuário.
+Os testes realizados evidenciam pontos de melhoria importantes para garantir uma melhor experiência ao usuário e maior confiabilidade da aplicação.
 
 ---
 
 ## 👨‍💻 Autor
 
-Andrey Zidane
+Andrei Zidane Mendes Martins

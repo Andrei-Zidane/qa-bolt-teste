@@ -1,6 +1,6 @@
 # Teste Exploratório - Site Bolt
 
-Data: 17/03/2026
+Data: 18/03/2026 e 19/03/2026
 
 ## Objetivo
 Validar o funcionamento do menu Institucional e seus redirecionamentos.
@@ -38,10 +38,20 @@ Durante os testes foi observado comportamento de recarregamento da página (poss
 
 ## Sugestões de melhoria
 
-- Implementar página de erro 404 customizada
-- Exibir código de status HTTP (404) de forma clara ao usuário
-- Garantir fallback amigável para páginas inexistentes
-- Validar todos os links institucionais antes de deploy
+- Implementar página de erro 404 customizada  
+  → Melhorar a experiência do usuário ao acessar páginas inexistentes
+
+- Exibir código de status HTTP (404) de forma clara  
+  → Facilitar entendimento técnico e diagnóstico de erros
+
+- Garantir fallback amigável para páginas inexistentes  
+  → Evitar páginas vazias ou mensagens genéricas
+
+- Validar todos os links institucionais antes de deploy  
+  → Prevenir links quebrados em produção
+
+- Implementar funcionalidade "Fale Conosco"  
+  → Permitir que usuários entrem em contato com a empresa de forma acessível
 
 ## Conclusão
 A aplicação apresenta falhas críticas em funcionalidades institucionais importantes, impactando diretamente a experiência do usuário e acesso a informações essenciais.

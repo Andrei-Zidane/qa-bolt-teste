@@ -5,11 +5,13 @@ Funcionalidade: Menu Institucional - Site Bolt
   Para obter informações e suporte
 
 
-  Cenário: Acessar página "Sobre a Bolt"
+  Cenário: Acessar seção "Sobre a Bolt"
     Dado que o usuário está na página inicial da Bolt
     Quando ele acessa o menu "Institucional"
     E clica em "Sobre a Bolt"
-    Então deve ser redirecionado para a página da BoltCard
+    Então deve ser direcionado para a seção "Sobre a Bolt" na mesma 
+    página
+    E deve visualizar informações institucionais relacionadas à BoltCard
 
 
   Cenário: Acessar página "Grupo Adriano Cobuccio"

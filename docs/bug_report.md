@@ -89,13 +89,20 @@ Passos para reproduzir:
 4. Clicar em "Política e Normas Internas de PLD"
 
 Resultado esperado:
-Deve abrir a página da política e disponibilizar o PDF
+Deve abrir a página da política e disponibilizar o PDF com as  “Política e Normas Internas de PLD”
 
 Resultado atual:
-Página exibe erro "Not Found"
+A aplicação redireciona para uma página de erro com a mensagem:
+"Not Found - The requested URL was not found on this server."
+
+Observação:
+O mesmo erro acontece com a página de "Política de Segurança Cibernético"
 
 Severidade: Crítica
 Prioridade: Alta
 
 Evidência:
-(adicionar print)
+
+[Bug 04 - Not Found](../evidencias/bugs/04_bug_normas_pld.png)
+
+[Ver vídeo](../evidencias/bugs/04_bug_normas.mp4)
