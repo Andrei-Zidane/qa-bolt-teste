@@ -20,7 +20,8 @@ Prioridade: Alta
 
 Evidência:
 
-[Ver vídeo](../evidencias/bugs/01_bug_ouvidoria.mp4)
+▶️ Vídeo: 
+[Ver execução do bug](../evidencias/bugs/01_bug_ouvidoria.mp4)
 
 ---
 
@@ -44,7 +45,8 @@ Prioridade: Alta
 
 Evidência:
 
-[Ver vídeo](../evidencias/bugs/02_bug_contato.mp4)
+▶️ Vídeo: 
+[Ver execução do bug](../evidencias/bugs/02_bug_contato.mp4)
 
 ---
 
@@ -75,7 +77,8 @@ Evidência:
 
 [Bug 03 - Not Found](../evidencias/bugs/03_bug_politica_cibernetica.png)
 
-[Ver vídeo](../evidencias/bugs/03_bug_politica.mp4)
+▶️ Vídeo: 
+[Ver execução do bug](../evidencias/bugs/03_bug_politica.mp4)
 
 ---
 
@@ -105,4 +108,5 @@ Evidência:
 
 [Bug 04 - Not Found](../evidencias/bugs/04_bug_normas_pld.png)
 
-[Ver vídeo](../evidencias/bugs/04_bug_normas.mp4)
+▶️ Vídeo: 
+[Ver execução do bug](../evidencias/bugs/04_bug_normas.mp4)
